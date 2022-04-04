@@ -1,7 +1,7 @@
 # PORTFOLIO-MANAGEMENT-COMPETITION-2021
 
-Competizione di analisi finanziaria
-​​​Università di Catania
+Competizione di analisi finanziaria 
+​​​ --- Università di Catania
 
 
 21 Marzo 2021 - 9 Maggio 2021
